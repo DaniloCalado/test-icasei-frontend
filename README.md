@@ -45,8 +45,8 @@ Obrigatório testes unitários
 ### 1. Clone o Repositório
 
 ```bash (No seu terminal):
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone git@github.com:DaniloCalado/test-icasei-frontend.git
+cd caminho-onde-foi-clonado-o-repositorio
 
 2. Configure o Ambiente
 Navegue até o diretório backend do projeto.
