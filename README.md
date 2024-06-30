@@ -47,7 +47,7 @@ Especificações tecnicas do teste
 git clone git@github.com:DaniloCalado/test-icasei-frontend.git
 cd caminho-onde-foi-clonado-o-repositorio
 
-2. Configure o Ambiente
+### 2. Configure o Ambiente
 Navegue até o diretório backend do projeto.
 
 Crie um arquivo .env na raiz do diretório backend.
