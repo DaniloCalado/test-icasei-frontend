@@ -1,0 +1,15 @@
+version: '3.7'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend:/usr/src/app/backend
+      - ./mf_drawer:/usr/src/app/mf_drawer
+      - ./mf_videos:/usr/src/app/mf_videos
