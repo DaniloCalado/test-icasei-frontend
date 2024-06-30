@@ -64,7 +64,7 @@ Na raiz do projeto:
 docker-compose up --build
 
 ### 4. Acesse a Aplicação
-Abra seu navegador e acesse 'http://localhost:3000'.
+Abra seu navegador e acesse (http://localhost:3000/mf_drawer/).
 
 ### 5. Teste as Funcionalidades da Aplicação:
 - Buscar Vídeos: Utilize a barra de busca para encontrar vídeos no YouTube , você tem que apertar na lupa para iniciar a pesquisa.
