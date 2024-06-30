@@ -43,7 +43,7 @@ Especificações tecnicas do teste
 
 ### 1. Clone o Repositório
 
-```bash (No seu terminal):
+No seu terminal:
 git clone git@github.com:DaniloCalado/test-icasei-frontend.git
 cd caminho-onde-foi-clonado-o-repositorio
 
@@ -59,14 +59,14 @@ API_KEY=YOUR_API_KEY_HERE
 Obs: Para consumir os dados da API do YouTube, você deve gerar sua chave de API de aplicação seguindo as instruções neste link:
 https://developers.google.com/youtube/v3/getting-started?hl=pt-br
 
-3. Inicie os Contêineres Docker
+### 3. Inicie os Contêineres Docker
 Na raiz do projeto:
 docker-compose up --build
 
-4. Acesse a Aplicação
+### 4. Acesse a Aplicação
 Abra seu navegador e acesse 'http://localhost:3000'.
 
-teste as Funcionalidades da Aplicação:
+### 5. Teste as Funcionalidades da Aplicação:
 Buscar Vídeos: Utilize a barra de busca para encontrar vídeos no YouTube , você tem que apertar na lupa para iniciar a pesquisa.
 Favoritar Vídeos: Clique no ícone de estrela para adicionar um vídeo aos favoritos.
 Visualizar Favoritos: Navegue até a página de favoritos para ver todos os vídeos que você marcou como favoritos.
