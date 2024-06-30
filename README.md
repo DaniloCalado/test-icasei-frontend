@@ -67,9 +67,9 @@ docker-compose up --build
 Abra seu navegador e acesse 'http://localhost:3000'.
 
 ### 5. Teste as Funcionalidades da Aplicação:
-Buscar Vídeos: Utilize a barra de busca para encontrar vídeos no YouTube , você tem que apertar na lupa para iniciar a pesquisa.
-Favoritar Vídeos: Clique no ícone de estrela para adicionar um vídeo aos favoritos.
-Visualizar Favoritos: Navegue até a página de favoritos para ver todos os vídeos que você marcou como favoritos.
+- Buscar Vídeos: Utilize a barra de busca para encontrar vídeos no YouTube , você tem que apertar na lupa para iniciar a pesquisa.
+- Favoritar Vídeos: Clique no ícone de estrela para adicionar um vídeo aos favoritos.
+- Visualizar Favoritos: Navegue até a página de favoritos para ver todos os vídeos que você marcou como favoritos.
 Você pode desfavoritar ao clicar na estrela preenchida.
 
 
