@@ -15,9 +15,9 @@ Este projeto permite buscar e visualizar vídeos do YouTube utilizando a API do 
 - **Docker-Compose**: Orquestra as aplicações e as dependências.
 
 Tecnologias Utilizadas
-Backend: Node.js, Express, Axios
-Frontend: HTML, CSS, JavaScript
-Docker: Docker, Docker Compose
+- Backend: Node.js, Express, Axios
+- Frontend: HTML, CSS, JavaScript
+- Docker: Docker, Docker Compose
 
 ## Pré-requisitos
 
@@ -25,19 +25,18 @@ Docker: Docker, Docker Compose
 - Conta no Google Cloud para gerar uma chave de API do YouTube.
 
 Especificações tecnicas do teste
-Ultilizar umas das opções para controle de sessão e BFF
 
-Node.js
-Utilizar a API de busca do YouTube
-Desing responsivo
-Navegação por rotas é requisito obrigatório
-Não utilizar framework JS (React, Vue, Angular ou frameworks relacionados)
-Cores livres, layout livre, imagens livres
-CSS nativo ou LESS, SASS e afins são permitidos
-Código deve ser tipado
-Utilizar microfront para cada aplicação com BFF
-Utilizar docker para microfronts e BFF
-Obrigatório testes unitários
+- Node.js
+- Utilizar a API de busca do YouTube
+- Desing responsivo
+- Navegação por rotas é requisito obrigatório
+- Não utilizar framework JS (React, Vue, Angular ou frameworks relacionados)
+- Cores livres, layout livre, imagens livres
+- CSS nativo ou LESS, SASS e afins são permitidos
+- Código deve ser tipado
+- Utilizar microfront para cada aplicação com BFF
+- Utilizar docker para microfronts e BFF
+- Obrigatório testes unitários
 
 
 ## Passo a Passo para Instalação
